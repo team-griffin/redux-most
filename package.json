@@ -1,5 +1,8 @@
 {
   "name": "@team-griffin/redux-most",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "Most.js based middleware for Redux. Handle async actions with monadic streams and reactive programming.",
   "main": "lib/index.js",
